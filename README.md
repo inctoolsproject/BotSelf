@@ -1,0 +1,2 @@
+# BotSelf
+Test script
